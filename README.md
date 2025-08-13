@@ -1,6 +1,6 @@
 # Manufacturing Performance Dashboard – Unit Output & Scrap Analysis 
 This dashboard provides a real time visual summary of manufacturing production unit. The objective is to monitor production output, track scrap trends and analyse defect trends across shifts and time periods. This dashboard delivers performance visibility for management, priority scrap issues and shift performance. 
-https://github.com/AMIRAHAIFA1/UnitPerformanceOutput-Excel/blob/main/Dashboard.png
+![image alt](https://github.com/AMIRAHAIFA1/UnitPerformanceOutput-Excel/blob/main/Dashboard.png)
 ## Key Features 
 - KPI Overview: Display Total units completed, average performance and total scrap
 - Best Shift: Shift A
